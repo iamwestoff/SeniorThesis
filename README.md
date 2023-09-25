@@ -1,10 +1,10 @@
 # Senior Thesis
 
-Simple overview of use/purpose.
+This project encapuslates everything learned throught the Carthage Computer Science Degree program. Through my many years through college, and transfer process to Carthage, we have divulged countless hours learning C++, C#, Java, Unity, and so many other pinnacle aspects of what makes being a Computer Scientist so interesting and fun.
 
 ## Description
 
-- TODO
+Using Unreal Engine,
 
 ## Getting Started
 
